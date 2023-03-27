@@ -1,0 +1,1 @@
+{"version":3,"file":"background.js","mappings":";;;;;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["webpack://chrom-ex/./src/background/background.ts"],"sourcesContent":["chrome.bookmarks.onCreated.addListener(() => {\n   console.log('ibre')\n  });\n\n\n\n  chrome.runtime.onInstalled.addListener(() => {\n    console.log('ibdedgf')\n  });"],"names":[],"sourceRoot":""}
