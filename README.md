@@ -7,7 +7,7 @@
   <li> webpack <li/>
   <li> type Script <li/>
     <ul/>
-  <div style={width:300px}>
+  <div  width={300}>
   
 https://user-images.githubusercontent.com/25065262/228056113-ee3e1805-167e-44a1-ac7f-b79808d743f5.mov
   <div/>
